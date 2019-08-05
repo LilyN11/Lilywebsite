@@ -1,0 +1,88 @@
+h1{
+  color: blue; font size: 14pt;
+}
+#ma {
+  margin-top: -1150px
+}
+.twelve{
+  font-size: 20pt
+}
+
+.back {
+  background-image: linear-gradient(lemonchiffon, yellow),
+     url("https://www.cs.umd.edu/~aporter/Tmp/bee.html");
+}
+
+.color {
+  background-color: lemonchiffon;
+}
+
+.blue {
+  background-color: lightcyan
+}
+
+#ferris {
+  margin: 70px
+}
+
+.no {
+  display:block;
+  margin-top: -25px;
+}
+
+#no {
+  display:block;
+  margin-top: -35px;
+}
+#cyan {
+    background-image: linear-gradient(lightcyan, lightskyblue);
+}
+
+#lavender {
+    background-image: linear-gradient(lavender, violet);
+}
+#margin {
+  margin: 50px
+}
+
+#ferris{
+  width:500px;
+  height:400px
+}
+/* Style the tab */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Style tab links */
+.tablink {
+  background-color: : #555;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#Other {background-color: peachpuff;}
+#Home {background-color:lemonchiffon;}
+#Moreaboutme {background-color: lightcyan;}
+#Game {background-color: lavender;}
